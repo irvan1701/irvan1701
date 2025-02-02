@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Irvan Nurfauzan Saputra</h1>
 <h3 align="center">I'm an Informatics student at Universitas Pembangunan Jaya with a passion for **IoT, Embedded Systems, and Backend Development**. I love experimenting with **ESP8266, ESP32, Arduino, and Laravel** to build innovative projects. Currently, I'm working on Asosiasi Peneliti Muda Indonesia as Manager of IT.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irvan1701" alt="irvan1701" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irvan1701&label=Profile%20views&color=0e75b6&style=flat" alt="irvan1701" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,3 +15,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irvan1701&show_icons=true&locale=en&layout=compact" alt="irvan1701" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irvan1701&show_icons=true&locale=en" alt="irvan1701" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irvan1701&" alt="irvan1701" /></p>
